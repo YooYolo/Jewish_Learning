@@ -1,0 +1,3 @@
+# Quotes
+- From the teaching of Rabbi Simcha Bunim, a great Polish Hasidic master at the turn of the 19th century. He is credited with saying the following:
+> Everyone must have two pockets, with a note in each pocket, so that he or she can reach into one or the other, depending on the need. When feeling lowly and depressed, discouraged or disconsolate, one should reach into the right pocket, and, there, find the words: **Bishvili nivra ha-olam "The world was created for me."** (BT Sanhedrin 37B) But when feeling high and mighty one should reach into the left pocket, and find the words: **V’anochi afar v’efer "I am but dust and ashes."** (Gen. 18:27)
