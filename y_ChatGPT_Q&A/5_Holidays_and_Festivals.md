@@ -1,4 +1,4 @@
-[Main Page](https://yolanda-ht.github.io/Jewish_Learning/)
+[Main Page](https://yooyolo.github.io/Jewish_Learning/)
 # 5 Holidays and Festivals
 > ChatGPT Q&A <br>
 

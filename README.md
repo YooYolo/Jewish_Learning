@@ -1,4 +1,4 @@
-[Main Page](https://yolanda-ht.github.io/Jewish_Learning/)
+[Main Page](https://yooyolo.github.io/Jewish_Learning/)
 # Jewish Learning
 > Author: Yolo <br>
 > Last update: 11/22/2023<br>

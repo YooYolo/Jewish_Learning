@@ -1,4 +1,4 @@
-[Main Page](https://yolanda-ht.github.io/Jewish_Learning/)
+[Main Page](https://yooyolo.github.io/Jewish_Learning/)
 # 1 History and Origins
 > ChatGPT Q&A <br>
 

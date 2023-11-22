@@ -1,4 +1,4 @@
-[Main Page](https://yolanda-ht.github.io/Jewish_Learning/)
+[Main Page](https://yooyolo.github.io/Jewish_Learning/)
 # What is the difference between Christian Priest and Pastor?
 *Keywords:*
 `Christianity`
