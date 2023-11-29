@@ -9,6 +9,7 @@
 
 | Content | Description |
 | ------- | ----------- |
+| __NA__ | NA |
 
 ### References
 - [Paper book] __[Jewish Literacy](https://www.amazon.com/gp/product/0061374989/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)__ `Judaism`, `History`
@@ -18,6 +19,7 @@
 
 | Content | Description |
 | ------- | ----------- |
+| __NA__ | NA |
 
 ### References
 
@@ -26,6 +28,7 @@
 
 | Content | Description |
 | ------- | ----------- |
+| __NA__ | NA |
 
 ### References
 - [Paper book] __[JPS Hebrew-English TANAKH](https://www.amazon.com/gp/product/0827606974/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)__ `Tanakh`
@@ -36,6 +39,7 @@
 
 | Content | Description |
 | ------- | ----------- |
+| __NA__ | NA |
 
 ### References
 - [Paper book / Kindle] __[Mishkan T'filah: A Reform Siddur: Complete](https://www.amazon.com/gp/product/B01AWYWZFQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)__ `Siddur`
@@ -45,6 +49,7 @@
 
 | Content | Description |
 | ------- | ----------- |
+| __NA__ | NA |
 
 ### References
 
@@ -53,6 +58,7 @@
 
 | Content | Description |
 | ------- | ----------- |
+| __NA__ | NA |
 
 ### References
 
@@ -79,6 +85,7 @@
 
 | Content | Description |
 | ------- | ----------- |
+| __NA__ | NA |
 
 ### References
 
@@ -87,6 +94,7 @@
 
 | Content | Description |
 | ------- | ----------- |
+| __NA__ | NA |
 
 ### References
 
@@ -95,6 +103,7 @@
 
 | Content | Description |
 | ------- | ----------- |
+| __NA__ | NA |
 
 ### References
 
