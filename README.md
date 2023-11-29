@@ -2,7 +2,7 @@
 # Judaism Random Seed
 > Author: Yolo <br>
 > Last update: 11/29/2023<br>
-*Judaism Studies (Powered by ChatGPT Prompt Engineering)*
+*__Judaism Studies__ (Powered by ChatGPT Prompt Engineering)*
 
 
 ## 1. History and Origins
