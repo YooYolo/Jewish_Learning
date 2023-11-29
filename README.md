@@ -20,6 +20,7 @@
 ### References
 - [Paper book] __[Jewish Literacy](https://www.amazon.com/gp/product/0061374989/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)__ `Judaism`, `History`
 - [Movie] __[The Bible's Buried Secrets](https://www.youtube.com/watch?v=GySaPvzlh8U)__ `Torah`, `Author`
+- [Audiobook (Novel)] __[As a Driven Leaf](https://www.audible.com/pd/As-a-Driven-Leaf-Audiobook/B002V0KJZ8)__ `Spirituality`, `Tradition`, `Connection to Life`
 
 ## 2. Beliefs and Theology
 *[ChatGPT Q&A](y_ChatGPT_Q&A/2_Beliefs_and_Theology.md)*
@@ -99,6 +100,7 @@
 | __Interactions with other cultures__ | The historical and ongoing interactions between Jewish culture and other cultures. |
 
 ### References
+- [Audiobook] __[Here All Along](https://www.audible.com/pd/Here-All-Along-Audiobook/0593105729?source_code=GO1MB12109072190YI&ds_rl=1261256&gclid=Cj0KCQiA35urBhDCARIsAOU7QwlBbDwF6qQLEkViAhl-6eMhdB3dAUeatbML2-rVQP6l5ay9MNh8ZmAaAhzpEALw_wcB&gclsrc=aw.ds)__ `Rabbinic Judaism`, `Greek Hellenistic society`
 
 ## 7. Denominations and Movements
 *[ChatGPT Q&A](y_ChatGPT_Q&A/7_Denominations_and_Movements.md)*
@@ -177,6 +179,7 @@
 
 ### References
 - [Movie] __[The Disputation](https://www.youtube.com/watch?v=6KrMcy8jImw)__ `Christianity`, `Judaism`, `Medieval`
+- [Paper book] __[Lovesong: Becoming a Jew](https://www.amazon.com/Lovesong-Becoming-Jew-Julius-Lester/dp/1611458021)__ `Conversion`, `Judaism`, `Methodist`
 
 ## 11. Hebrew
 *[ChatGPT Q&A](y_ChatGPT_Q&A/11_Hebrew.md)*
