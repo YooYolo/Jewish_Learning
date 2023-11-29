@@ -13,6 +13,7 @@
 
 ### References
 - [Paper book] __[Jewish Literacy](https://www.amazon.com/gp/product/0061374989/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)__ `Judaism`, `History`
+- [Movie] __[The Bible's Buried Secrets](https://www.youtube.com/watch?v=GySaPvzlh8U)__ `Torah`, `Author`
 
 ## 2. Beliefs and Theology
 *[ChatGPT Q&A](y_ChatGPT_Q&A/2_Beliefs_and_Theology.md)*
@@ -106,6 +107,7 @@
 | __NA__ | NA |
 
 ### References
+- [Movie] __[The Disputation](https://www.youtube.com/watch?v=6KrMcy8jImw)__ `Christianity`, `Judaism`, `Medieval`
 
 ## 11. Hebrew
 *[ChatGPT Q&A](y_ChatGPT_Q&A/11_Hebrew.md)*
