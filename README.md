@@ -1,8 +1,6 @@
 [Main Page](https://yooyolo.github.io/JudaismRandomSeed/)
-# Judaism Random Seed
 > Author: Yolo <br>
 > Last update: 11/29/2023<br>
-*__Judaism Studies__ (Powered by ChatGPT Prompt Engineering)*
 
 
 ## 1. History and Origins
@@ -17,7 +15,7 @@
 | __Rabbinic Judaism__ | The development of Rabbinic Judaism following the destruction of the Second Temple. |
 | __Diaspora and Jewish communities__ | Throughout history, Jewish communities have been dispersed across the globe, influencing the development of different Jewish traditions, customs, and beliefs. |
 
-### References
+__References__
 - [Paper book] __[Jewish Literacy](https://www.amazon.com/gp/product/0061374989/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)__ `Judaism`, `History`
 - [Movie] __[The Bible's Buried Secrets](https://www.youtube.com/watch?v=GySaPvzlh8U)__ `Torah`, `Author`
 - [Audiobook (Novel)] __[As a Driven Leaf](https://www.audible.com/pd/As-a-Driven-Leaf-Audiobook/B002V0KJZ8)__ `Spirituality`, `Tradition`, `Connection to Life`
@@ -32,7 +30,7 @@
 | __Torah and revelation__ | The Torah, comprised of the Five Books of Moses, considered to be the revealed word of God, containing the commandments and teachings that guide Jewish life. |
 | __Halakha (Jewish law)__ | Halakha, the system of Jewish law, derived from the Torah. |
 
-### References
+__References__
 
 ## 3. Sacred Texts
 *[ChatGPT Q&A](y_ChatGPT_Q&A/3_Sacred_Texts.md)*
@@ -44,7 +42,7 @@
 | __Talmud__ | A vast compendium of Jewish law, ethics, and lore that includes the Mishnah and its commentary, the Gemara. |
 | __Midrash__ | A collection of rabbinic teachings, interpretations, and stories that seek to explain and expand upon the biblical text.  |
 
-### References
+__References__
 - [Paper book] __[JPS Hebrew-English TANAKH](https://www.amazon.com/gp/product/0827606974/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)__ `Tanakh`
 - [Paper book] __[Who Wrote the Bible?](https://www.amazon.com/gp/product/0139585133/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)__ `Tanakh`, `Bible`
 
@@ -60,7 +58,7 @@
 | __Life cycle events__ | Significant life events and associated rituals and customs. |
 | __Synagogue and communal life__ | Synagogue architecture and layout, rold of the synagogue, community leadership, etc. |
 
-### References
+__References__
 - [Paper book / Kindle] __[Mishkan T'filah: A Reform Siddur: Complete](https://www.amazon.com/gp/product/B01AWYWZFQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)__ `Siddur`
 
 ## 5. Holidays and Festivals
@@ -79,7 +77,7 @@
 | __Shavuot__ | The Festival of Weeks, which marks the giving of the Torah at Mount Sinai. |
 | __Minor holidays and fast days__ | Other holidays and fast days, such as Tisha B'Av (commemorating the destruction of the First and Second Temples), Lag BaOmer (celebrating the end of a plague that affected Rabbi Akiva's students), and Tu B'Shevat (New Year for Trees).   |
 
-### References
+__References__
 
 ## 6. Cultural Aspects
 *[ChatGPT Q&A](y_ChatGPT_Q&A/6_Cultural_Aspects.md)*
@@ -99,7 +97,7 @@
 | __Contemporary Jewish arts and culture__ | The role of contemporary Jewish artists, writers, musicians, filmmakers, and other cultural figures in shaping and expressing modern Jewish identity and experience.   |
 | __Interactions with other cultures__ | The historical and ongoing interactions between Jewish culture and other cultures. |
 
-### References
+__References__
 - [Audiobook] __[Here All Along](https://www.audible.com/pd/Here-All-Along-Audiobook/0593105729?source_code=GO1MB12109072190YI&ds_rl=1261256&gclid=Cj0KCQiA35urBhDCARIsAOU7QwlBbDwF6qQLEkViAhl-6eMhdB3dAUeatbML2-rVQP6l5ay9MNh8ZmAaAhzpEALw_wcB&gclsrc=aw.ds)__ `Rabbinic Judaism`, `Greek Hellenistic society`
 
 ## 7. Denominations and Movements
@@ -118,7 +116,7 @@
 | __Major organizations and institutions__ | Key organizations, institutions, and leaders associated with each Jewish denomination, such as the Union for Reform Judaism or the Rabbinical Assembly for Conservative Judaism. |
 | __Contemporary issues and challenges__ | Current issues and challenges facing each Jewish movement, including questions of religious identity, assimilation, and the evolving role of Jewish law in modern society. |
 
-### References
+__References__
 
 ## 8. Jewish Ethics and Philosophy
 *[ChatGPT Q&A](y_ChatGPT_Q&A/8_Jewish_Ethics_and_Philosophy.md)*
@@ -138,7 +136,7 @@
 | __Medieval Jewish philosophy__ | The works of major medieval Jewish philosophers, such as Saadia Gaon, Maimonides, Judah Halevi, and Gersonides. |
 | __Jewish mysticism (Kabbalah) and Hasidism__ | The ethical teachings and practices associated with Jewish mystical traditions and Hasidic movements. |
 
-### References
+__References__
 
 ## 9. The Role of Israel
 *[ChatGPT Q&A](y_ChatGPT_Q&A/9_The_Role_of_Israel.md)*
@@ -157,7 +155,7 @@
 | __Religion and state in Israel__ | The complex relationship between religion and state in Israel and the ongoing debates over issues such as religious pluralism, conversion, marriage, and Shabbat observance.   |
 | __Israel and interfaith relations__ | The significance of Israel as a place of religious importance for Judaism, Christianity, and Islam, and the challenges and opportunities for interfaith dialogue and coexistence in the region. |
 
-### References
+__References__
 
 ## 10. Interaction and Relationships with Other Religions and Cultures
 *[ChatGPT Q&A](y_ChatGPT_Q&A/10_Interaction_and_Relationships_with_Other_Religions_and_Cultures.md)*
@@ -177,7 +175,7 @@
 | __Anti-Semitism and religious prejudice__ | History and manifestations of anti-Semitism and religious prejudice against Jews, as well as the Jewish responses to such attitudes and actions.   |
 | __Modern encounters and challenges__ | Impact of modernity on the relationship between Judaism and other religions. |
 
-### References
+__References__
 - [Movie] __[The Disputation](https://www.youtube.com/watch?v=6KrMcy8jImw)__ `Christianity`, `Judaism`, `Medieval`
 - [Paper book] __[Lovesong: Becoming a Jew](https://www.amazon.com/Lovesong-Becoming-Jew-Julius-Lester/dp/1611458021)__ `Conversion`, `Judaism`, `Methodist`
 
@@ -197,5 +195,5 @@
 | __Rabbinic Hebrew__ | Rabbinic Hebrew which is found in classical Jewish texts like the Talmud and Midrash. |
 | __Immersion learning__ | Hebrew texts, recordings, and other resources. |
 
-### References
+__References__
 - [Paper book] __[Prayerbook Hebrew the Easy Way](https://www.amazon.com/gp/product/0939144328/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)__ `Hebrew`, `Prayer`
