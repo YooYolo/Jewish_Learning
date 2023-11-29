@@ -67,7 +67,7 @@
 
 | Content | Description |
 | ------- | ----------- |
-| __Historical development__ | The origins, history, and development of the various Jewish denominations |
+| __[Historical development](../7_Denominations_and_Movements/Historical_development.md)__ | The origins, history, and development of the various Jewish denominations |
 | __Core beliefs__ | Each denomination has its own set of beliefs and principles that define its unique approach to Judaism |
 | __Religious practices__ | Religious practices and rituals of each movement (e.g. differences in prayer, observance of the Sabbath, dietary laws, and synagogue services). |
 | __Interpretation of sacred texts__ | Different Jewish movements have varying approaches to interpreting the Torah, Talmud, and other sacred texts |
