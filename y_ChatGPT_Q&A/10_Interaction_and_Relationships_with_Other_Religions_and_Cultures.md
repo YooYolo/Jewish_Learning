@@ -1,4 +1,4 @@
-[Main Page](https://yooyolo.github.io/Jewish_Learning/)
+[Main Page](https://yooyolo.github.io/JudaismRandomSeed/)
 # 10 Interaction and Relationships with Other Religions and Cultures
 > ChatGPT Q&A <br>
 

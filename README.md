@@ -1,7 +1,8 @@
-[Main Page](https://yooyolo.github.io/Jewish_Learning/)
-# Jewish Learning
+[Main Page](https://yooyolo.github.io/JudaismRandomSeed/)
+# Judaism Random Seed
 > Author: Yolo <br>
 > Last update: 11/29/2023<br>
+*Judaism Studies (Powered by ChatGPT Prompt Engineering)*
 
 
 ## 1. History and Origins
