@@ -1,6 +1,6 @@
 [Main Page](https://yooyolo.github.io/JudaismRandomSeed/)
 > Author: Yolo <br>
-> Last update: 11/29/2023<br>
+> Last update: 12/01/2023<br>
 
 
 ## 1. History and Origins
@@ -44,6 +44,8 @@ __References__
 
 __References__
 - [Paper book] __[JPS Hebrew-English TANAKH](https://www.amazon.com/gp/product/0827606974/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)__ `Tanakh`
+- [Paper book] __[The Torah: A Women's Commentary](https://www.amazon.com/Torah-Dr-Tamara-Cohn-Eshkenazi/dp/B00461M8J0)__ `Torah`, `Women's Perspective`
+- [Website] __[Safaria.org](https://www.sefaria.org/texts)__ `Tanakh`, `Mishnah`, `Talmud`, `Midrash`, `Halakhah`
 - [Paper book] __[Who Wrote the Bible?](https://www.amazon.com/gp/product/0139585133/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)__ `Tanakh`, `Bible`
 
 ## 4. Practices and Rituals
@@ -197,3 +199,14 @@ __References__
 
 __References__
 - [Paper book] __[Prayerbook Hebrew the Easy Way](https://www.amazon.com/gp/product/0939144328/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)__ `Hebrew`, `Prayer`
+
+## 12. General or Misc Topics
+*[ChatGPT Q&A](y_ChatGPT_Q&A/12_General_or_Misc_Topics.md)*
+
+| Content | Description |
+| ------- | ----------- |
+| __NA__ | NA |
+
+__References__
+- [Website] __[My Jewish Learning](https://www.myjewishlearning.com/)__ `nan`
+- [Website] __[ReformJudaism.org](https://www.reformjudaism.org/)__ `Holidays`, `Practices`, `Beliefs`, `Life`, `Learning`
