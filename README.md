@@ -1,6 +1,6 @@
 [Main Page](https://yooyolo.github.io/JudaismRandomSeed/)
 > Author: Yolo <br>
-> Last update: 12/01/2023<br>
+> Last update: 12/08/2023<br>
 
 
 ## 1. History and Origins
@@ -39,7 +39,7 @@ __References__
 | ------- | ----------- |
 | __Tanakh (Hebrew Bible)__ | The Torah, the Prophets (Nevi'im), and the Writings (Ketuvim). |
 | __Torah__ | The Five Books of Moses (Genesis, Exodus, Leviticus, Numbers, and Deuteronomy). |
-| __Talmud__ | A vast compendium of Jewish law, ethics, and lore that includes the Mishnah and its commentary, the Gemara. |
+| __[Talmud](3_Sacred_Texts/Talmud.md)__ | A vast compendium of Jewish law, ethics, and lore that includes the Mishnah and its commentary, the Gemara. |
 | __Midrash__ | A collection of rabbinic teachings, interpretations, and stories that seek to explain and expand upon the biblical text.  |
 
 __References__
@@ -54,7 +54,7 @@ __References__
 | Content | Description |
 | ------- | ----------- |
 | __Sabbath (Shabbat)__ | The day of rest and spiritual reflection that begins at sundown on Friday and ends at nightfall on Saturday. |
-| __Prayer (Tefillah)__ | The Siddur, three daily prayer services, Shema Yisrael, The Amidah, Kabbalat Shabbat and Havdalah, High Holy Day prayers, etc. |
+| __[Prayer (Tefillah)](4_Practices_and_Rituals/Prayer_Tefillah.md)__ | The Siddur, three daily prayer services, Shema Yisrael, The Amidah, Kabbalat Shabbat and Havdalah, High Holy Day prayers, etc. |
 | __Dietary laws (Kashrut)__ | The system of Jewish dietary laws that dictate which foods are permissible (kosher) and how they should be prepared. |
 | __Festivals and holidays__ | Festivals and holidays that commemorate historical events, celebrate religious themes, and provide opportunities for communal observance. |
 | __Life cycle events__ | Significant life events and associated rituals and customs. |
@@ -73,7 +73,7 @@ __References__
 | __Yom Kippur__ | The Day of Atonement, the holiest day of the Jewish year, which is observed through fasting, prayer, and repentance. |
 | __Sukkot__ | The Festival of Tabernacles, a week-long holiday commemorating the Israelites' journey through the desert and God's protection |
 | __Simchat Torah__ | The joyous holiday that marks the conclusion of the annual Torah reading cycle and the beginning of a new one. |
-| __Hanukkah__ | The Festival of Lights, an eight-day holiday commemorating the miracle of the oil in the rededicated Second Temple in Jerusalem. |
+| __[Hanukkah](5_Holidays_and_Festivals/Hanukkah.md)__ | The Festival of Lights, an eight-day holiday commemorating the miracle of the oil in the rededicated Second Temple in Jerusalem. |
 | __Purim__ | The festive holiday that celebrates the salvation of the Jewish people from the wicked Haman, as told in the Book of Esther. |
 | __Passover (Pesach)__ | The week-long holiday that commemorates the Exodus of the Israelites from Egypt. |
 | __Shavuot__ | The Festival of Weeks, which marks the giving of the Torah at Mount Sinai. |
@@ -125,7 +125,7 @@ __References__
 
 | Content | Description |
 | ------- | ----------- |
-| __Biblical ethics__ | Ethical teachings found in the Hebrew Bible (Tanakh). |
+| __[Biblical ethics](8_Jewish_Ethics_and_Philosophy/Biblical_ethics.md)__ | Ethical teachings found in the Hebrew Bible (Tanakh). |
 | __Rabbinic ethics__ | Ethical teachings and discussions in the Talmud and other rabbinic literature. |
 | __Jewish law (Halakhah)__ | The role of Jewish law in shaping ethical behavior and decision-making, as well as the process of legal interpretation and adaptation to changing circumstances.   |
 | __Jewish moral principles__ | Foundational Jewish moral principles (tikkun olam: repairing the world, tzedakah: charity, gemilut chasadim: acts of loving-kindness, pikuach nefesh: saving a life, etc.).   |
@@ -139,6 +139,9 @@ __References__
 | __Jewish mysticism (Kabbalah) and Hasidism__ | The ethical teachings and practices associated with Jewish mystical traditions and Hasidic movements. |
 
 __References__
+- [Paper book] __[There Shall Be No Needy](https://www.amazon.com/There-Shall-Be-Needy-Tradition/dp/1580234259)__ `Social Justice`, `Jewish Approach`, `Tzedakah`
+- [Paper book] __[Righteous Indignation: A Jewish Call for Justice](https://www.amazon.com/Righteous-Indignation-Jewish-Call-Justice/dp/1580233368)__ `Social Justice`, `Jewish Law`, `Jewish Tradition`
+- [Paper book] __[Recharging Judaism: How Civic Engagement is Good for Synagogues, Jews, and America](https://www.amazon.com/Recharging-Judaism-Engagement-Synagogues-America/dp/0881233080)__ `Social Justice`, `America`, `Civic Engagement`
 
 ## 9. The Role of Israel
 *[ChatGPT Q&A](y_ChatGPT_Q&A/9_The_Role_of_Israel.md)*
@@ -205,7 +208,7 @@ __References__
 
 | Content | Description |
 | ------- | ----------- |
-| __NA__ | NA |
+| __[Authors and Scholars](12_General_or_Misc_Topics/Authors_and_Scholars.md)__ | Scholars of Judaism and authors of texts related to Judaism |
 
 __References__
 - [Website] __[My Jewish Learning](https://www.myjewishlearning.com/)__ `nan`
