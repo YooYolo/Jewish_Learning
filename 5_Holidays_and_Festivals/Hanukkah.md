@@ -1,4 +1,4 @@
-[Main Page](https://yooyolo.github.io/Jewish_Learning/)
+[Main Page](https://yooyolo.github.io/JudaismRandomSeed/)
 
 # Hanukkah
 
