@@ -7,7 +7,7 @@
 | ------- | ------ | ------------------ |
 | Talmud | תַּלְמוּד | Study / Learning |
 | Mishna | מִשְׁנָה | Repeated Study |
-| Gemara | גְּמָרָא | COmpletion |
+| Gemara | גְּמָרָא | Completion |
 
 ## Description
 - The Talmud is the central text of Rabbinic Judaism and the primary source of Jewish religious law and Jewish theology.
