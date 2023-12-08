@@ -3,6 +3,7 @@
 # Talmud
 
 ## Keywords
+
 | Keyword | Hebrew | Hebrew Translation |
 | ------- | ------ | ------------------ |
 | Talmud | תַּלְמוּד | Study / Learning |

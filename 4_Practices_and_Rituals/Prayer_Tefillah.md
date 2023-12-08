@@ -1,4 +1,4 @@
-[Main Page](https://yooyolo.github.io/Jewish_Learning/)
+[Main Page](https://yooyolo.github.io/JudaismRandomSeed/)
 
 # Prayer (Tefillah)
 
@@ -6,6 +6,7 @@
 
 
 ## Types
+
 | Name | Description |
 | ---- | ----------- |
 | Shema | Shema Yisrael is a Jewish prayer that serves as a centerpiece of the morning and evening Jewish prayer services. Its first verse encapsulates the monotheistic essence of Judaism: "Hear, O Israel: YHWH is our God, YHWH is one", found in Deuteronomy 6:4. |
