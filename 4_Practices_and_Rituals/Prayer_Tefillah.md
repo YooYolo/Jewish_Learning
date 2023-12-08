@@ -8,7 +8,7 @@
 ## Types
 | Name | Description |
 | ---- | ----------- |
-| Shema | |
+| Shema | Shema Yisrael is a Jewish prayer that serves as a centerpiece of the morning and evening Jewish prayer services. Its first verse encapsulates the monotheistic essence of Judaism: "Hear, O Israel: YHWH is our God, YHWH is one", found in Deuteronomy 6:4. |
 | Amidah | |
 | Birkat HaMazon | |
 | Pesukei D'Zimrah | |
