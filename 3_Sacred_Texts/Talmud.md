@@ -37,7 +37,7 @@
 - Rashi
 - Roasfot
 - Rabbenu Hananel
-- Rabbit Yehoshua Boaz
+- Rabbi Yehoshua Boaz
     - Ein Mishpat Ner Mitzvah
     - Torah Or
     - Masoret HaShas
